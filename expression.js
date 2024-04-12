@@ -7,3 +7,13 @@ const js = {};
 console.log(typeof(js))
 a = "hello," + "world"
 console.log(a)
+
+const greeting = "Hello, folks";
+const barkCount = 5
+x = "spinach barks "
+y = " times"
+z = `${x}${barkCount}${y}`
+console.log(z)
+
+const littleWomanEsque = '"Wait," said Jo, "Don\'t go without me!"';
+console.log(littleWomanEsque)

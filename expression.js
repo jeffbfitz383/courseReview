@@ -17,3 +17,10 @@ console.log(z)
 
 const littleWomanEsque = '"Wait," said Jo, "Don\'t go without me!"';
 console.log(littleWomanEsque)
+
+
+console.log(42===42)
+
+const likelyToRain = false;
+const clothingChoice = likelyToRain? "rain boots" : "sun hat";
+console.log(clothingChoice)
